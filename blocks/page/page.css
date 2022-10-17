@@ -1,0 +1,7 @@
+.page {
+  text-rendering: optimizeLegibility;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  background-color: white;
+  max-width: 1440px;
+}
